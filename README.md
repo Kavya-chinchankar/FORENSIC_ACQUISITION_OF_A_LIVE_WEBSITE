@@ -130,7 +130,7 @@ Using **Wireshark**, the following were analyzed:
 * Difference between normal website downloading and forensic acquisition
 * Practical understanding of web protocols in investigations
 * Hands-on experience with **real forensic tools**
-* Ethical and legal considerations in cyber investigations
+* Ethical and legal considerations in cyber investigations.
 
 ---
 
